@@ -7,8 +7,6 @@ mod 'elastic-elastic_stack', '6.0.2'
 mod 'puppet-yum', '2.2.0'
 mod 'elastic-logstash', '6.0.2'
 mod 'puppetlabs-java', '2.4.0'
-mod 'joshsamuelson-elk',
-  :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
 mod 'puppetlabs-puppetdb', '6.0.2'
 mod 'puppetlabs-inifile', '2.2.0'
 mod 'puppetlabs-postgresql', '5.4.0'
