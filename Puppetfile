@@ -16,3 +16,5 @@ mod 'puppet-puppetboard', '4.0.0'
 mod 'stankevich-python', '1.18.2'
 mod 'puppetlabs-vcsrepo', '2.3.0'
 mod 'puppetlabs-apache', '3.1.0'
+mod 'mmccune-elk',
+  :git => https://github.com/mjmccune/mmccune-elk.git
