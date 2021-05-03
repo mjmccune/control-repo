@@ -17,5 +17,5 @@ mod 'stankevich-python', '1.18.2'
 mod 'puppetlabs-vcsrepo', '2.3.0'
 mod 'puppetlabs-apache', '3.1.0'
 mod 'mmccune-elk',
-  :git => https://github.com/mjmccune/mmccune-elk.git
+  :git => 'https://github.com/mjmccune/mmccune-elk.git'
 mod 'puppetlabs-yumrepo_core', '1.0.7'
